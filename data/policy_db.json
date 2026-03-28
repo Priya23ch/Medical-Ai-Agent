@@ -1,0 +1,6 @@
+{
+    "93000": {
+        "description": "EKG",
+        "required_icd10": ["R07.9", "R07.81"]
+    }
+}
